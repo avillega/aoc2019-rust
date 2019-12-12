@@ -1,1 +1,4 @@
-fn main() {}
+mod day5;
+fn main() {
+    day5::solve2();
+}
